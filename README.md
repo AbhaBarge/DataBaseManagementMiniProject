@@ -27,11 +27,7 @@ https://github.com/AbhaBarge/DataBaseManagementMiniProject/assets/122365230/91ba
    - VSCode
 
 ## Dependencies : <img src >
-XAMPP<br>
-1. While loading the project locally, install/move the UnstopTechTalentPark folder to the 'htdocs' folder present in the 'xampp' folder<br>
-    Path should be : xampp -> htdocs -> UnstopTechTalentPark
-2. Go to the browser, enter 'http://localhost/UnstopTechTalentPark/unstop-ui-clone-main/templates/job-portal.html'
-3. Storing the project at a different location can lead to server errors.
+XAMPP
 <br>
 phpMyAdmin
 
