@@ -15,13 +15,9 @@ https://github.com/AbhaBarge/DataBaseManagementMiniProject/assets/122365230/91ba
 1. Backend
    - MySQL
    - Python
-      - TensorFlow
-      - Keras
       - Flask
         - request
         - render_template
-      - Pandas
-      - Numpy
 3. Frontend
    - HTML-5
    - CSS
