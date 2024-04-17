@@ -35,6 +35,4 @@ XAMPP<br>
 <br>
 phpMyAdmin
 
-### Reference :
-Frontend code template : https://github.com/Avinash905/unstop-ui-clone
 
